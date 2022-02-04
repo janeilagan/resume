@@ -11288,6 +11288,8 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+  .visible-print  { display: inherit !important; }
+  .hidden-print   { display: none !important; }
 }
 body {
   padding-top: 3.375rem;
