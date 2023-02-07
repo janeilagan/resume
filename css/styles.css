@@ -11468,3 +11468,11 @@ section.resume-section .resume-section-content {
 @keyframes progress{
   0% { width:0%; }
 }
+ 
+.img-preview {
+  position: fixed;
+  display: none;
+  pointer-events: none;
+  height: 300px;
+  width: auto;
+} 
