@@ -7,7 +7,10 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
         "**/.csv": true,
-        "**/.xlsx": true
+        "**/.xlsx": true,
+        "assets/img/pup.png": true
     },
-    "hide-files.files": []
+    "hide-files.files": [
+        "assets/img/pup.png"
+    ]
 }
